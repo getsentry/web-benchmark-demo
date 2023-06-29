@@ -1,0 +1,19 @@
+{
+  "name": "@sentry-internal/overhead-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sentry",
+  "license": "MIT",
+  "volta": {
+    "node": "18.16.1"
+  },
+  "dependencies": {
+    "@sentry-internal/web-benchmark": "^1.0.1",
+    "playwright": "^1.35.1"
+  }
+}
