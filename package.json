@@ -10,7 +10,7 @@
   "author": "Sentry",
   "license": "MIT",
   "volta": {
-    "node": "18.16.1"
+    "node": "22.23.4"
   },
   "dependencies": {
     "@sentry-internal/web-benchmark": "^1.0.1",
